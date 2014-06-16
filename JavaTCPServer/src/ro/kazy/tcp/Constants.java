@@ -1,5 +1,3 @@
-package ro.kazy.tcp;
-
 /**
  * Description
  *

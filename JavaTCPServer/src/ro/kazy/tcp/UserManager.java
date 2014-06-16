@@ -1,4 +1,4 @@
-package ro.kazy.tcp;
+// package ro.kazy.tcp;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

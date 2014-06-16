@@ -1,4 +1,4 @@
-package ro.kazy.tcp;
+// package ro.kazy.tcp;
 
 /**
  * Encapsulates a user entity, having its port and username
